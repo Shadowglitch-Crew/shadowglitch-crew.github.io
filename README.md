@@ -29,3 +29,14 @@ A first deployment may take a few minutes. Once live, check the address above on
 Edit and push `index.html`, then allow GitHub Pages to redeploy. QR codes can continue to point to the stable homepage even when bonus materials change.
 
 © 2026 The Shadowglitch Crew.
+
+## Official replacement QR assets
+
+The following vector QR graphics encode the **new** HTTPS Pages URL and are suitable for use in revised book layouts:
+
+- [Homepage QR](assets/shadowglitch-crew-home-qr.svg) → https://shadowglitch-crew.github.io/
+- [Mission 003 QR](assets/shadowglitch-crew-mission003-qr.svg) → https://shadowglitch-crew.github.io/training/mission003/
+- [Mission 009 QR](assets/shadowglitch-crew-mission009-qr.svg) → https://shadowglitch-crew.github.io/training/mission009/
+- [Mission 011 QR](assets/shadowglitch-crew-mission011-qr.svg) → https://shadowglitch-crew.github.io/training/mission011/
+
+These QR codes were generated at high error correction and independently decoded to verify the URLs. The QR images are black on white and have quiet zones. They still require a **physical phone scan** at final printed size before publication. Older QR PNGs with legacy names remain only as archived assets; **do not put them in future print books**.
